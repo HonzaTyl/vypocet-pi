@@ -1,3 +1,8 @@
+"""
+Unit testy pro funkci calculate_pi z modulu pi_calculation.
+Testuje správnost výpočtu hodnoty π pro různé počty iterací.
+"""
+
 import unittest
 from pi_calculation import calculate_pi
 
